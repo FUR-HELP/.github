@@ -6,17 +6,17 @@ FUR/HELP is an EU-based non-profit initiative by [@yukideer](https://github.com/
 
 FUR/HELP is made by refugees for refugees, being refugee-centric we are:
 - **Financially Supporting LGBTQIA+ Asylum Seekers & Refugees**: While we do so only partially for now, we help fund first necessities for LGBTQIA+ refugees & asylum seekers.
-- **Developing Inclusive Resources & Services**: Developing resources, components, and solutions that prioritize inclusivity above all, seeking to build a great experience for all. From tools for refugees to better adapt to their new home to solutions that help in research for LGBTQIA+ rights. All with accessibility in mind.
-- **Making Platforms for Cultural Exchange & Celebration**: Platforming cultures and dialogues that move forward the diverse world.
+- **Developing Inclusive Resources & Services**: Developing resources, components, and solutions that prioritize inclusivity above all, seeking to build a great experience for all. From tools for refugees to better adapt to their new home to solutions that help in research for LGBTQIA+ rights. All with accessibility and inclusivity in mind.
+- **Making Platforms for Cultural Exchange & Celebration**: Platforming cultures and dialogues that move forward the diverse world, highlighting topics that aren't as common in the discourse, promoting diversity, knowledge and empowerment of marginalized communities.
 
 ## 🚀 What we work on?
 
 We’re currently involved in:
-- [FUR/HELP Website](https://furhelp.lgbt): Our website that would host information that would be tailored to refugees as well as other people that face marginalization, highlighting issues not commonly talked about in mainstream activism. Website aims to be also WCAG compliant using [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) by [Incluud](https://incluud.dev/).
+- [**FUR/HELP Website**](https://furhelp.lgbt): Our major upgrade to our website that would enable it to be more accessible thanks to [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) by [Incluud](https://incluud.dev/).
 
 Planning to also work on:
 - **LGBTQIA+ Safety Maps**: Maps with accessibility features that showcase accurate and detailed information on the state of LGBTQIA+ rights worldwide, with separate detailed version for each part of the huge LGBTQIA+ community from transgender people to two-spirit and beyond.
-- **E2EE Encrypted Tools for Nonprofits**: We aim to make tools and services to empower other nonprofits with encryption, accessibility and inclusivity by default. From ticket tracking software to better track and streamline requests for humanitarian aid to management tools for safespaces to track and manage resources effectively and easier.
+- **E2EE Tools for Nonprofits**: We aim to make tools and services to empower other nonprofits with encryption, accessibility and inclusivity by default. From ticket tracking software to better track and streamline requests for humanitarian aid to management tools for safespaces to track and manage resources effectively and easier.
 
   *and more...*
 
