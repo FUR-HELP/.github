@@ -1,6 +1,6 @@
 # Help has no borders
 
-FUR/HELP is an EU-based non-profit initiative by [@yukideer](https://github.com/YukiDeer) that benefits LGBTQIA+ asylum seekers and refugees from the post-soviet areas, as well as American transgender people in danger. Since November 2022, we have helped over 20 people to reach safety.
+FUR/HELP is an EU-based initiative by [@yukideer](https://github.com/YukiDeer) that benefits LGBTQIA+ asylum seekers and refugees from the post-soviet areas, as well as American transgender people in danger. Since November 2022, we have helped over 20 people to reach safety.
 
 ## ✨ What We Do
 
