@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#-get-in-touch"><strong>Get Help</strong></a> •
   <a href="#-how-to-support"><strong>How to Support</strong></a> •
-  <a href="#-our-values"><strong>Our Core Values</strong></a>
+  <a href="#-our-core-values"><strong>Our Core Values</strong></a>
 </p>
 
 <p align="center">
