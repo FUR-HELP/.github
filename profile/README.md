@@ -1,35 +1,97 @@
-# Help has no borders
+<p align="center">
+  <img src="https://furhelp.lgbt/_astro/logo.CgmWdYBg_ZnUJn4.svg" width="30%" />
+</p>
 
-FUR/HELP is an EU-based initiative by [@yukideer](https://github.com/YukiDeer) that benefits LGBTQIA+ asylum seekers and refugees from the post-soviet areas, as well as American transgender people in danger. Since November 2022, we have helped over 20 people to reach safety.
+<p align="center">
+  <strong>Help has no borders.</strong>
+</p>
 
-## ✨ What We Do
+> [!IMPORTANT]  
+> **We seek volunteers to help run FUR/HELP!** If you want to join us, please check out the Join Us section of our website below.
 
-FUR/HELP is made by refugees for refugees, being refugee-centric we are:
-- **Financially Supporting LGBTQIA+ Asylum Seekers & Refugees**: While we do so only partially for now, we help fund first necessities for LGBTQIA+ refugees & asylum seekers.
-- **Developing Inclusive Resources & Services**: Developing resources, components, and solutions that prioritize inclusivity above all, seeking to build a great experience for all. From tools for refugees to better adapt to their new home to solutions that help in research for LGBTQIA+ rights. All with accessibility and inclusivity in mind.
-- **Making Platforms for Cultural Exchange & Celebration**: Platforming cultures and dialogues that move forward the diverse world, highlighting topics that aren't as common in the discourse, promoting diversity, knowledge and empowerment of marginalized communities.
+<p align="center">
+  <a href="#-get-in-touch"><strong>Get Help</strong></a> •
+  <a href="#-how-to-support"><strong>How to Support</strong></a> •
+  <a href="#-our-values"><strong>Our Core Values</strong></a>
+</p>
 
-## 🚀 What we work on?
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-We’re currently involved in:
-- [**FUR/HELP Website**](https://furhelp.lgbt): Our major upgrade to our website that would enable it to be more accessible thanks to [Accessible Astro Starter](https://github.com/markteekman/accessible-astro-starter) by [Incluud](https://incluud.dev/).
+## 👋 Who We Are
 
-Planning to also work on:
-- **LGBTQIA+ Safety Maps**: Maps with accessibility features that showcase accurate and detailed information on the state of LGBTQIA+ rights worldwide, with separate detailed version for each part of the huge LGBTQIA+ community from transgender people to two-spirit and beyond.
-- **E2EE Tools for Nonprofits**: We aim to make tools and services to empower other nonprofits with encryption, accessibility and inclusivity by default. From ticket tracking software to better track and streamline requests for humanitarian aid to management tools for safespaces to track and manage resources effectively and easier.
+**FUR/HELP** is an initiative that benefits LGBTQIA+ asylum seekers and refugees from the EECA region, as well as American transgender people in danger, based in Paris, France.
 
-  *and more...*
+Founded in November 2022 by a human rights trans activist [YukiDeer](https://bsky.app/profile/yukideer.gay), FUR/HELP emerged from the urgent need to support those fleeing violence, discrimination, and death threats in their home countries simply for being who they are.
 
-## 🌟 What we aim for?
+Whether you need immediate evacuation, long-term relocation support, or a community that celebrates exactly who you are, we are here for you.
 
-> We fight for each of our refugees and make sure they get to a safe haven. We envision a future where no one must choose between authenticity and safety, as **help has no borders.**
+We have helped **25+** people escape persecution to buffer and safe countries and have raised more than **€400** on needs of refugees
 
-## 🌱 We are stronger together
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-Our sincere thanks go to wonderful communities and teams below:
+## ⚡ What We Do
 
-- **The Astro Team** for building an outstanding static site generator that powers our website.
-- **Incluud Team** for developing the best accessibility tools for Astro which we use for our own website
-- **Our Contributors** for generously sharing their time, knowledge, and skills to help enhance our code and improve our work
-- **The LGBTQIA+, BIPOC, People with Disabilities and many other amazing marginalized communities** for standing with us in the ongoing fight for equality and justice. Together, we can achieve lasting change.
-- **You** for taking your time to read through our README <3
+### 🚨 Emergency & Crisis Support
+
+* **💸 Financial Assistance**
+  We help people fund all the necessities with the aid of our volunteers and donors, from food and shelter to legal fees and medical expenses.
+* **🧳 Evacuation Assistance**
+  Whether in immediate danger or not, FUR/HELP is there to help you plan and execute your evacuation to a safe country.
+* **🤝 Relocation Support**
+  Once you have a plan or want to flee danger before it escalates, FUR/HELP will be there to help you relocate to a safe country.
+* **📣 Fundraising Support**
+  Have a need we can't cover immediately? We will help you fundraise for it with our community and donors.
+
+### 🏳️‍🌈 Advocacy & Safe Spaces
+
+* **📢 Human Rights Advocacy**
+  We boost the voices that need to be heard. Be it LGBTQIA+, BIPOC, disabled, or any other vulnerable group, we are here to amplify your voice.
+* **🏡 Inclusive Safehouses**
+  We build and support LGBTQIA+ safehouses in buffer and safe countries so that our refugees always have a piece of safety, no matter where they are.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🌱 Our Core Values
+
+> Everyone deserves to thrive with dignity, agency, and pride, even in the harshest places of the Earth.
+
+* **✨ Identity Celebration**
+  We don't restrict your identity or culture to conform to a unified image. You are allowed to express yourself fully in our spaces.
+* **🌍 Ethical Adaptation**
+  We help you adapt to your temporary and permanent home without making you feel foreign.
+* **♿ Accessible To All**
+  Everything we build and organize is designed with accessibility in mind, ensuring everyone can use our resources without barriers.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🤝 How to Support
+
+We are an open-source, community-driven initiative. Here is how you can get involved:
+
+* **💻 Contribute to our Tech:** Help us build accessible tools, secure communication channels, and resource directories. Check out our open repositories!
+* **🙋 Volunteer:** Lend your skills in translation, legal aid, mental health support, or logistics.
+* **💖 Donate:** Directly fund refugees, evacuation flights, volunteers and emergency aid.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 📬 Get in Touch
+
+If you are in danger, need advice, or want to collaborate with us:
+
+* **📧 Email:** [contact@furhelp.lgbt](mailto:contact@furhelp.lgbt)
+* **💬 Signal:** @furhelp.75 *(Highly recommended for asylum seekers/refugees)*
+* **🌐 Website:** [furhelp.lgbt](https://furhelp.lgbt)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
