@@ -7,10 +7,10 @@
 </p>
 
 > [!IMPORTANT]  
-> **We seek volunteers to help run FUR/HELP!** If you want to join us, please check out the Join Us section of our website below.
+> **We seek volunteers to help run FUR/HELP!** If you want to join us, please check out the Join Us section of [our website](https://furhelp.lgbt).
 
 <p align="center">
-  <a href="#-get-in-touch"><strong>Get Help</strong></a> •
+  <a href="#-get-help"><strong>Get Help</strong></a> •
   <a href="#-how-to-support"><strong>How to Support</strong></a> •
   <a href="#-our-core-values"><strong>Our Core Values</strong></a>
 </p>
@@ -78,13 +78,13 @@ We are an open-source, community-driven initiative. Here is how you can get invo
 
 * **💻 Contribute to our Tech:** Help us build accessible tools, secure communication channels, and resource directories. Check out our open repositories!
 * **🙋 Volunteer:** Lend your skills in translation, legal aid, mental health support, or logistics.
-* **💖 Donate:** Directly fund refugees, evacuation flights, volunteers and emergency aid.
+* **💖 Donate:** Directly fund refugees, evacuation flights, volunteers and emergency aid. We accept donations via [Ko-fi](https://ko-fi.com/yukideer)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 📬 Get in Touch
+## 📬 Get Help
 
 If you are in danger, need advice, or want to collaborate with us:
 
